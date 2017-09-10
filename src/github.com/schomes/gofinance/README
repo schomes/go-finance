@@ -1,0 +1,8 @@
+make sure the GOPATH is set
+
+
+1. Install this package
+	$ go install
+2. Create a main.go file and build it
+	$ go build main.go
+3. Run the executable
